@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(34,80,195);
+    background: linear-gradient(0deg, rgba(34,80,195,1) 16%, rgba(45,188,253,1) 75%);
+}
+.loginForm{
+    height: 400px;
+    background-color: rgb(242, 239, 235);
+    border-radius: 15px;
+    box-shadow : 4px 8px 16px #fbf9f9;
+
+}
