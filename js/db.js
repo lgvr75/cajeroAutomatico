@@ -1,0 +1,20 @@
+const cuentas =[
+    {
+        id:1,
+        usuario:'luis',
+        password:'123',
+        saldo:200
+    },
+    {
+        id:2,
+        usuario:'maggie',
+        password:'123',
+        saldo:290
+    },
+    {
+        id:3,
+        usuario:'ana',
+        password:'123',
+        saldo:67
+    },
+]
